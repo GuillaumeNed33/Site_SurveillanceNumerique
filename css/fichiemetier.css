@@ -1,0 +1,104 @@
+section {
+  margin-left: auto;
+  padding-bottom: 55px;
+  margin-bottom: 55px;
+}
+
+section article div {
+  border-radius: 30px;
+  background-color: rgba(200, 200, 200, 0.75);;
+  width: 90%;
+  margin-top: 1em;
+  font-size: 1em;
+  box-shadow: 0.063em 0.063em 0.750em black;
+  margin-left: 10%;
+  padding: 1% 2% 1% 2%;
+  text-align: justify;
+  margin-left: 3%;
+}
+
+section article h2 {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: #993333;
+}
+section article h3 {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+section article ul li {
+  margin: 15px;
+  padding: 5px;
+}
+
+section article:first-child {
+  width: 80%;
+  position: absolute;
+  top: 55px;
+  right: 1%;
+}
+section article:nth-child(2) {
+  width: 40%;
+position: absolute;
+top: 250px;
+left: 20%;
+ margin-top: 50px;
+  text-align: center;
+}
+
+section article:nth-child(3) {
+  width: 39%;
+ position: absolute;
+ top: 250px;
+ right: 2%;
+ margin-top: 50px;
+  text-align: center;
+}
+
+section article:nth-child(4) {
+  width: 39%;
+  position: absolute;
+  top: 730px;;
+  right:2%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+section article:nth-child(5) {
+  width: 40%;
+position: absolute;
+top: 730px;
+left: 20%;
+margin-top: 50px;
+  text-align: center;
+}
+
+section article:nth-child(6) {
+  width: 39%;
+  position: absolute;
+  top: 1230px;
+  right: 2%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+section article:nth-child(7) {
+  width: 40%;
+  position: absolute;
+  top: 1010px;
+  left: 20%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+section article:nth-child(8) {
+  width: 40%;
+  position: absolute;
+  top: 1230px;
+  left: 20%;
+  margin-top: 50px;
+  text-align: center;
+}

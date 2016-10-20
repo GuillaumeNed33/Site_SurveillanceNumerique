@@ -1,0 +1,43 @@
+div img
+{
+  border-radius: 50%;
+  float: left;
+  max-width: 100px;
+}
+div {
+  height: 100px;;
+}
+div p {
+margin-left: 150px;
+margin-top: 30px;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: #993333;
+}
+
+section div {
+  border-radius: 30px;
+  background-color: rgba(200, 200, 200, 0.75);;
+  width: 90%;
+  margin-top: 1em;
+  font-size: 1em;
+  box-shadow: 0.063em 0.063em 0.750em black;
+  margin-left: 10%;
+  padding: 1% 2% 1% 2%;
+  text-align: justify;
+  margin-left: 3%;
+}
+
+section {
+  margin-top: 50px;
+  margin-left: 20%;
+  padding-bottom: 55px;
+  margin-bottom: 55px;
+}
+
+section div:first-child {
+  margin-bottom: 100px;
+}
